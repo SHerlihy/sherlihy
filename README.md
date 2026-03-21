@@ -6,8 +6,8 @@
 - You can find me (in person) at Software Crafter Cambridge and Cambridge AI
 
 Form more information on my work, please visit:
-- (sherlihy.com)[https://sherlihy.com]
-- (llm learning)[https://d2gru0zoilocfa.cloudfront.net]
+- [sherlihy.com](https://sherlihy.com)
+- [llm learning](https://d2gru0zoilocfa.cloudfront.net)
 <!--
 **SHerlihy/sherlihy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
