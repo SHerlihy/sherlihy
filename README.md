@@ -3,7 +3,7 @@
 - I've been developing web applications using Typescript for over 4 years
 - My software practice is centered on user experience
 - I regularly attend software engineering events as I enjoy learning from fellow Engineers
-- You can find me (in person) at Software Crafter Cambridge and Cambridge AI
+- You can find me (in person) at Software Crafters Cambridge and Cambridge AI
 
 For more information on my work, please visit:
 - [sherlihy.com](https://sherlihy.com)
